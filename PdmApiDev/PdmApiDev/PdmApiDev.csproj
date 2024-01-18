@@ -33,6 +33,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EPDM.Interop.epdm">
+      <HintPath>..\..\DLLS\EPDM.Interop.epdm.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,14 +50,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Forms\CofreLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CofreLogin.Designer.cs">
+      <DependentUpon>CofreLogin.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Pdm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Pdm.Designer.cs">
       <DependentUpon>Pdm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Models\LoginModel.cs" />
+    <Compile Include="Pdm\PdmApi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\CofreLogin.resx">
+      <DependentUpon>CofreLogin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Pdm.resx">
       <DependentUpon>Pdm.cs</DependentUpon>
     </EmbeddedResource>

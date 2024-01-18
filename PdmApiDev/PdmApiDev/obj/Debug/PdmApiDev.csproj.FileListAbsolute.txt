@@ -1,0 +1,13 @@
+C:\Developer\ska\PdmApiDev\PdmApiDev\PdmApiDev\bin\Debug\PdmApiDev.exe.config
+C:\Developer\ska\PdmApiDev\PdmApiDev\PdmApiDev\bin\Debug\PdmApiDev.exe
+C:\Developer\ska\PdmApiDev\PdmApiDev\PdmApiDev\bin\Debug\PdmApiDev.pdb
+C:\Developer\ska\PdmApiDev\PdmApiDev\PdmApiDev\obj\Debug\PdmApiDev.csproj.AssemblyReference.cache
+C:\Developer\ska\PdmApiDev\PdmApiDev\PdmApiDev\obj\Debug\PdmApiDev.Pdm.resources
+C:\Developer\ska\PdmApiDev\PdmApiDev\PdmApiDev\obj\Debug\PdmApiDev.Properties.Resources.resources
+C:\Developer\ska\PdmApiDev\PdmApiDev\PdmApiDev\obj\Debug\PdmApiDev.csproj.GenerateResource.cache
+C:\Developer\ska\PdmApiDev\PdmApiDev\PdmApiDev\obj\Debug\PdmApiDev.csproj.CoreCompileInputs.cache
+C:\Developer\ska\PdmApiDev\PdmApiDev\PdmApiDev\obj\Debug\PdmApiDev.exe
+C:\Developer\ska\PdmApiDev\PdmApiDev\PdmApiDev\obj\Debug\PdmApiDev.pdb
+C:\Developer\ska\PdmApiDev\PdmApiDev\PdmApiDev\bin\Debug\EPDM.Interop.epdm.dll
+C:\Developer\ska\PdmApiDev\PdmApiDev\PdmApiDev\obj\Debug\PdmApiDev.csproj.CopyComplete
+C:\Developer\ska\PdmApiDev\PdmApiDev\PdmApiDev\obj\Debug\PdmApiDev.CofreLogin.resources
